@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @alisepehrinia
 - 👀 I’m interested in game
 - 🌱 I’m currently learning Hacking and security
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ALISP727
-- 😄 Pronouns: Angry 
-- ⚡ Fun fact: ...
+- 😄 Pronouns:silent
+- ⚡ Fun fact:abnormal 
 
 <!---
 alisepehrinia/alisepehrinia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
